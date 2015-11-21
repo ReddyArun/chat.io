@@ -1,0 +1,12 @@
+{
+  "name": "chart.io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "socket.io": "*"
+  }
+}
